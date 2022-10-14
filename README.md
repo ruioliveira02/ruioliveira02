@@ -2,7 +2,9 @@
 
 My name is Rui. I took up programming when I was 14, when I started learning Java. In highschool I ventured into competitive programming, solving problems in C++, racking up three final presences in the Portuguese National Olympiad.
 
-After high school I started studying Software Engineering in University of Minho, having been admited with a perfect score of 20/20, being one of only three students to do so in the entire university. I am currently a codirector of the Open Source Support Center (CAOS) of [CeSIUM](cesium.di.uminho.pt), where I help develop and maintain a variety of [repositories](https://github.com/cesium/), spanning from web development using [Next.JS](https://nextjs.org/) to backend services using PHP and Java.
+After high school I started studying Software Engineering in University of Minho, having been admited with a perfect score of 20/20, being one of only three students to do so in the entire university. I am currently a director of the Open Source Support Center (CAOS) of [CeSIUM](cesium.di.uminho.pt), where I help develop and maintain a variety of [repositories](https://github.com/cesium/), spanning from web development using [Next.JS](https://nextjs.org/) to backend services using PHP and Java.
+
+I am currently a researcher at HASLab/INESC-TEC as well.
 
 I can also program in C#, as you can see by the public projects I have on display here!
 
